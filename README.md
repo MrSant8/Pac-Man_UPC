@@ -30,7 +30,8 @@ Upon starting Pac-Man, the player must navigate Pac-Man through the maze using t
 - **Modified Start Screens:** Enhanced start screens for a better user experience.
 - **Scoring:** Point calculation system for tracking player scores.
 - **Ghost AI:** Implemented behaviors for the ghosts to make their movements challenging.
-- **Future Builds:**
+
+## Future Builds 
   - Redesigned Sprites: Updated graphics for a visually enhanced experience.
   - Smoother Animations: Improved animations for seamless gameplay.
   - Middle Tunnel Fix: Correcting issues with the middle tunnel in the map.
