@@ -19,6 +19,7 @@ Pac-Man is a classic arcade game created by Namco in 1980. In this game, players
 
 Upon starting Pac-Man, the player must navigate Pac-Man through the maze using the arrow keys on their keyboard (up, down, left, right). Pac-Man must consume all the pellets in the maze while avoiding contact with the ghosts. Eating power pellets temporarily allows Pac-Man to turn the tables and chase and consume the ghosts.
 
+
 ## Features
 
 - **Maze Design:** Intricate maze layouts filled with pellets and obstacles.
